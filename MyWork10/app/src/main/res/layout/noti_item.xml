@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:background="#EFEDED"
+    android:orientation="vertical">
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/grid_noti_bk"
+            android:layout_width="379dp"
+            android:layout_height="228dp"
+            android:layout_margin="5dp"
+            >
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/grid_txtNo"
+            android:layout_width="match_parent"
+            android:layout_height="235dp"
+            android:gravity="center"
+            android:text="@string/title_notifications"
+            android:textColor="#94FFF3" />
+    </RelativeLayout>
+
+</LinearLayout>

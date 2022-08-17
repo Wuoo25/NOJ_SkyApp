@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".UI.Home.LikeFragment"
+    android:orientation="horizontal">
+
+    <com.example.mywork10.Utils.ViewPager.VerticalTabLayout
+        android:id="@+id/like_tab"
+        android:layout_width="69dp"
+        android:layout_height="800dp"
+        android:background="#FAFAFA"
+        app:indicator_width="50dp"
+        app:tab_height="50dp"
+        app:tab_mode="scrollable">
+
+    </com.example.mywork10.Utils.ViewPager.VerticalTabLayout>
+
+<!--    可滑动-->
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/like_viewPager"
+        android:layout_width="309dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="right" />
+
+
+</LinearLayout>

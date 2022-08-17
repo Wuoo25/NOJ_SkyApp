@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@mipmap/login_back"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="用户名"
+            android:textSize="28sp"/>
+        <EditText
+            android:id="@+id/log_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="28sp"
+            android:hint="enter your name"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="密   码"
+            android:textSize="28sp"/>
+        <EditText
+            android:id="@+id/log_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="28sp"
+            android:inputType="textPassword"
+            android:hint="password"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="365dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="50dp">
+        <Button
+            android:id="@+id/log_register"
+            android:layout_width="121dp"
+            android:layout_height="match_parent"
+            android:text="注册"
+            android:onClick="onClickRegister"
+            android:layout_marginLeft="10dp">
+        </Button>
+        <Button
+            android:id="@+id/log_login"
+            android:layout_width="121dp"
+            android:layout_height="match_parent"
+            android:text="登录"
+            android:layout_gravity="right"
+            android:layout_marginRight="10dp"
+            android:onClick="onClickLogin"
+            android:layout_marginLeft="110dp"
+            >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>

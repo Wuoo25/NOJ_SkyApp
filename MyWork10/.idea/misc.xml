@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.138" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/drawable/ic_baseline_dashboard_24.xml" value="0.1605" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/drawable/ic_comment_24.xml" value="0.163" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/drawable/ic_ground_24.xml" value="0.1775" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/drawable/ic_study.xml" value="0.1775" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/drawable/shape_circle.xml" value="0.277" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/drawable/usericon_bg_circle.xml" value="0.228" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout-w936dp/fragment_equip_like.xml" value="0.1" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout-w936dp/fragment_ground_like.xml" value="0.1" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/activity_comment.xml" value="0.12" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/activity_login.xml" value="0.20694444444444443" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/activity_news_grid.xml" value="0.2341485507246377" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/activity_register.xml" value="0.23007246376811594" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/app_bar_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/comment_item.xml" value="0.10666666666666667" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/dialog.xml" value="0.20697463768115942" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/equip.xml" value="0.18541666666666667" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/equip_grid.xml" value="0.1" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/equip_item.xml" value="0.15520833333333334" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_Fr_notifi.xml" value="0.11676798378926039" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_dash_board.xml" value="0.16666666666666666" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_equip.xml" value="0.1" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_equip_grid_.xml" value="0.1" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_equip_like.xml" value="0.2162037037037037" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_first.xml" value="0.19882246376811594" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_fr_notifi.xml" value="0.10786868160500261" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_ground.xml" value="0.21240942028985507" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_ground_like.xml" value="0.2162037037037037" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_like.xml" value="0.1" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_news.xml" value="0.14792299898682879" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_news_like.xml" value="0.182518115942029" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_notifications.xml" value="0.16666666666666666" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_se_notifi.xml" value="0.1068840579710145" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_second.xml" value="0.22314814814814815" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/fragment_th_notifi.xml" value="0.1068840579710145" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/ground_grid.xml" value="0.13333333333333333" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/ground_item.xml" value="0.1375" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/header.xml" value="0.16666666666666666" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/list_item1.xml" value="0.2341485507246377" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/news_grid.xml" value="0.3333333333333333" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/news_item.xml" value="0.14792299898682879" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/noti_grid.xml" value="0.13858695652173914" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/layout/noti_item.xml" value="0.10666666666666667" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/menu/menu_navigation.xml" value="0.2484375" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/menu/navigation.xml" value="0.30416666666666664" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/menu/per_navigation.xml" value="0.22314814814814815" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1865" />
+        <entry key="..\:/IT/B19150408/work/AndroidWork/MyWork10/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1865" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
